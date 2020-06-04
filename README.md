@@ -3,6 +3,8 @@ React核心源码练习
 目前实现 
 * React: createElement cloneElement
 * React-DOM: render
+* redux
+* react-redux
 
 
 # 运行方法
